@@ -1,0 +1,29 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.daih.psychphinder",
+      "sha256_cert_fingerprints":
+      ["B7:A1:D8:3E:1D:42:69:37:89:2B:A3:B0:CB:B2:EA:96:FA:10:99:7C:43:C8:BE:EE:91:8F:FF:0A:19:21:9C:1E"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.daih.psychphinder",
+      "sha256_cert_fingerprints":
+      ["BD:D2:55:AE:3F:62:12:2F:56:1D:99:BF:B7:10:82:DF:48:9B:1A:42:17:74:12:74:8D:69:1E:1D:CB:69:97:C0"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.daih.psychphinder",
+      "sha256_cert_fingerprints":
+      ["43:23:8D:51:2C:1E:5E:B2:D6:56:9F:4A:3A:FB:F5:52:34:18:B8:2E:0A:3E:D1:55:27:70:AB:B9:A9:C9:CC:AB"]
+    }
+  }
+]
