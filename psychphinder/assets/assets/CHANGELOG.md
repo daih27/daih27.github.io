@@ -1,14 +1,3 @@
-# 1.1.4 (05/13/2023)
-
-- Added tons of customization to the image creator. This are the new options:
-    - Choose the colors for all the elements on the wallpaper.
-    - Use an optional gradient in the background
-    - Choose between 4 (for now) images to put on the background. You can select more than one.
-    - Create profiles to save your favorite customizations.
-    - Added two predefined Christmas profiles. Share the Christmas love with Psych!
-- The image creator is now accesible at the bottom left of the screen when viewing a quote.
-- Fixed the "What's new" screen not showing on the web browser.
-
 # 1.1.3 (11/11/2023)
 
 - Completed all the references from season 8.
